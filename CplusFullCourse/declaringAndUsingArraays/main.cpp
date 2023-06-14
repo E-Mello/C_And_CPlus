@@ -59,5 +59,15 @@ int main()
         std::cout << "score: " << score << std::endl;
     }
 
+    std::cout << "--------------------------------------------------------------------------------" << std::endl;
+
+    int scoresTest[]{100, 200, 300, 400, 500, 600, 700, 800, 900, 1000};
+    int sumTest{0};
+    for (int score : scoresTest)
+    {
+        sumTest += score;
+    }
+    std::cout << "sumTest: " << sumTest << std::endl;
+
     return 0;
 }
