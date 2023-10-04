@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/mello/Documents/WorkSpace/Learning_CPlusPlus/CplusFullCourse/forLoop",
-      "program": "/home/mello/Documents/WorkSpace/Learning_CPlusPlus/CplusFullCourse/forLoop/build/Debug/outDebug",
+      "cwd": "/home/mello/Documents/WorkSpace/Learning_CPlusPlus/CplusFullCourse/11.Loops/11.1.ForLoop",
+      "program": "/home/mello/Documents/WorkSpace/Learning_CPlusPlus/CplusFullCourse/11.Loops/11.1.ForLoop/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
