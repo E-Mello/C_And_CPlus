@@ -7,7 +7,7 @@
 
 ## Descrição 📝
 
-Este repositório é dedicado aos meus estudos em C++ e C. Acredito que seja uma linguagem incrível que ajuda muito a pensar mais lógicamente na programação.
+Este repositório é dedicado aos estudos em C++ e C. Acredito que seja uma linguagem incrível que ajuda muito a pensar mais lógicamente na programação.
 
 ## Uso 📚
 
